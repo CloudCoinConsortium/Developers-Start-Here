@@ -5,6 +5,6 @@ But until then, you can see how to put CloudCoin V2 on exchanges: https://www.cl
 
 About the CloudCoin V2 RAIDA Protocol: (See RAIDA Protocol) https://www.cloudcoinwiki.com/Main_Page
 
-
-
+We are happy to help you develop with CloudCoin. 
+Please send any questions to CloudCoin@protonmail.com
 
